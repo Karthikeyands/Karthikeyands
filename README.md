@@ -2,7 +2,6 @@
 
 A passionate **CSE Student** exploring **IoT, Cloud Computing, and Full-Stack Development**  
 
-![Profile views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat)
 
 - 🌱 I’m currently learning **AWS IoT, ESP32, and Advanced Cloud Architectures**  
 - 💬 Ask me about **IoT solutions, Embedded Systems, and Cloud Integrations**  
@@ -22,7 +21,6 @@ A passionate **CSE Student** exploring **IoT, Cloud Computing, and Full-Stack De
 - **C++**
 - **Python**
 - **SQL**
-- **HTML**
 - **JavaScript**
 
 <!---
