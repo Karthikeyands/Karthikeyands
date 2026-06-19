@@ -4,9 +4,6 @@
 </div>
 
 <!-- ===== ORIGINAL ANIMATED SPIDER WEB (your own SVG in the repo) ===== -->
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Karthikeyands/Karthikeyands/main/spider-web.svg" alt="spider web"/>
-</div>
 
 <!-- ===== TYPING ANIMATION (red) ===== -->
 <div align="center">
@@ -61,9 +58,6 @@ const karthikeyan: Developer = {
 </tr>
 </table>
 
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Karthikeyands/Karthikeyands/main/spider-web.svg" alt="spider web"/>
-</div>
 
 ## 🛠️ Tech Stack
 
@@ -71,9 +65,6 @@ const karthikeyan: Developer = {
   <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,react,nodejs,fastapi,express,mongodb,postgres,mysql,docker,aws,gcp,git,postman&perline=9" alt="tech stack"/>
 </div>
 
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Karthikeyands/Karthikeyands/main/spider-web.svg" alt="spider web"/>
-</div>
 
 ## 📌 Featured Projects
 
@@ -88,9 +79,6 @@ const karthikeyan: Developer = {
 
 </div>
 
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Karthikeyands/Karthikeyands/main/spider-web.svg" alt="spider web"/>
-</div>
 
 ## 📊 GitHub Stats
 
