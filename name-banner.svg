@@ -1,0 +1,50 @@
+<svg width="100%" viewBox="0 0 680 220" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Karthikeyan D animated name banner</title>
+<desc>The name Karthikeyan D in a comic style with corner spider webs and a spider crawling across a web line.</desc>
+
+<g stroke="#1a8fff" stroke-width="1.2" fill="none" opacity="0.85" stroke-linecap="round">
+  <line x1="0" y1="0" x2="110" y2="80"/>
+  <line x1="0" y1="0" x2="60" y2="95"/>
+  <line x1="0" y1="0" x2="120" y2="35"/>
+  <path d="M 20 14 Q 45 35 22 55 Q 52 52 62 78" stroke="#e62429"/>
+  <line x1="680" y1="0" x2="570" y2="80"/>
+  <line x1="680" y1="0" x2="620" y2="95"/>
+  <line x1="680" y1="0" x2="560" y2="35"/>
+  <path d="M 660 14 Q 635 35 658 55 Q 628 52 618 78" stroke="#e62429"/>
+</g>
+
+<text x="340" y="98" font-family="'Trebuchet MS',Verdana,sans-serif" font-size="46" font-weight="900" text-anchor="middle" fill="#e62429" stroke="#0a1a3f" stroke-width="1.2" letter-spacing="2">
+  KARTHIKEYAN D
+  <animate attributeName="opacity" from="0" to="1" dur="0.8s" fill="freeze"/>
+</text>
+<text x="340" y="128" font-family="'Fira Code',monospace" font-size="15" font-weight="600" text-anchor="middle" fill="#1a8fff">
+  &lt; full-stack web-slinger /&gt;
+  <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.5s" fill="freeze"/>
+</text>
+
+<line x1="60" y1="170" x2="620" y2="170" stroke="#9fb3c8" stroke-width="1.4" opacity="0.7"/>
+<g>
+  <animateTransform attributeName="transform" type="translate" from="60 0" to="540 0" dur="4s" repeatCount="indefinite"/>
+  <line x1="0" y1="120" x2="0" y2="170" stroke="#9fb3c8" stroke-width="0.8" opacity="0.6"/>
+  <g transform="translate(0,170)">
+    <ellipse cx="0" cy="0" rx="11" ry="14" fill="#b3001b"/>
+    <circle cx="0" cy="-13" r="7" fill="#0a1a3f"/>
+    <circle cx="-2.5" cy="-14" r="1.6" fill="#e62429"/>
+    <circle cx="2.5" cy="-14" r="1.6" fill="#e62429"/>
+    <g stroke="#0a1a3f" stroke-width="1.8" fill="none" stroke-linecap="round">
+      <path d="M -9 -3 Q -22 -10 -27 -2">
+        <animate attributeName="d" values="M -9 -3 Q -22 -10 -27 -2; M -9 -3 Q -22 -4 -27 4; M -9 -3 Q -22 -10 -27 -2" dur="0.4s" repeatCount="indefinite"/>
+      </path>
+      <path d="M -9 1 Q -24 1 -29 9">
+        <animate attributeName="d" values="M -9 1 Q -24 1 -29 9; M -9 1 Q -24 6 -29 2; M -9 1 Q -24 1 -29 9" dur="0.4s" repeatCount="indefinite"/>
+      </path>
+      <path d="M 9 -3 Q 22 -10 27 -2">
+        <animate attributeName="d" values="M 9 -3 Q 22 -10 27 -2; M 9 -3 Q 22 -4 27 4; M 9 -3 Q 22 -10 27 -2" dur="0.4s" repeatCount="indefinite"/>
+      </path>
+      <path d="M 9 1 Q 24 1 29 9">
+        <animate attributeName="d" values="M 9 1 Q 24 1 29 9; M 9 1 Q 24 6 29 2; M 9 1 Q 24 1 29 9" dur="0.4s" repeatCount="indefinite"/>
+      </path>
+    </g>
+  </g>
+</g>
+</svg>
