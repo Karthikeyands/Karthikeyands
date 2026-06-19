@@ -1,5 +1,7 @@
-<!-- ===== WEB-SLINGER THEMED HEADER (red+blue gradient) ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=210&section=header&text=Karthikeyan%20D&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Web-Slinging%20Code%20Across%20the%20Stack&descAlignY=56&descSize=16" />
+<!-- ===== ANIMATED THEMED NAME BANNER (your own SVG: name + crawling spider) ===== -->
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Karthikeyands/Karthikeyands/main/name-banner.svg" alt="Karthikeyan D"/>
+</div>
 
 <!-- ===== ORIGINAL ANIMATED SPIDER WEB (your own SVG in the repo) ===== -->
 <div align="center">
