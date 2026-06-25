@@ -1,110 +1,108 @@
-<!-- ===== ANIMATED THEMED NAME BANNER (your own SVG: name + crawling spider) ===== -->
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Karthikeyands/Karthikeyands/main/name-banner.svg" alt="Karthikeyan D"/>
+
+# Karthikeyan D
+
+### Full Stack Developer
+
+**React · React Native · Node.js · FastAPI · SQL/NoSQL · Cloud**
+
+<p>
+<a href="https://www.linkedin.com/in/karthikeyan-d-s/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://instagram.com/karthikeyan.d.s"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="mailto:karthisagudeva@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
+
 </div>
 
-<!-- ===== ORIGINAL ANIMATED SPIDER WEB (your own SVG in the repo) ===== -->
+---
 
-<!-- ===== TYPING ANIMATION (red) ===== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E62429&center=true&vCenter=true&width=640&lines=Your+friendly+neighborhood+Full+Stack+Dev+%F0%9F%95%B7%EF%B8%8F;React+%7C+Node.js+%7C+FastAPI+%7C+SQL%2FNoSQL;Spinning+webs+%E2%80%94+the+kind+made+of+code;From+Microcontrollers+to+the+Cloud+%E2%9A%A1" alt="Typing SVG" />
+
+## 👋 About Me
+
 </div>
 
-<!-- ===== SOCIAL BADGES ===== -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/karthikeyan-d-s/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/karthikeyan.d.s"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="mailto:karthisagudeva@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Karthikeyands&label=Web%20Visitors&color=e62429&style=for-the-badge" alt="views"/>
-</div>
-
-<br/>
-
-<!-- ===== ABOUT + CODING GIF ===== -->
-<table>
-<tr>
-<td width="55%" valign="top">
-
-### 🕸️ About Me
-
-```typescript
-const karthikeyan: Developer = {
-  alias: "Full Stack Web-Slinger",
-  location: "Coimbatore, India 🇮🇳",
-  education: "B.Tech CSE @ Amrita (2026)",
-  current: "Intern @ Home Ideas Technologies",
-  stack: {
-    frontend: ["React", "React Native"],
-    backend:  ["Node.js", "Fastify", "FastAPI"],
-    database: ["PostgreSQL", "MySQL", "MongoDB"],
-    cloud:    ["AWS", "GCP", "Docker"],
-  },
-  roots: ["Embedded Systems", "IoT"],
-  motto: "With great stack comes great responsibility ⚡",
-};
-```
+I'm a Full Stack Developer pursuing my **B.Tech in Computer Science & Engineering at Amrita (2026)**, currently interning at **Home Ideas Technologies**. I build mobile and backend applications with a focus on clean API design and reliable cloud deployment. My background in Embedded Systems and IoT gives me a hardware-to-software perspective on the products I work on.
 
 - 🔭 Building mobile + backend apps with **React Native, FastAPI & Node.js**
-- 🌱 Going deep on **SQL/NoSQL, API design & cloud deployment**
-- 🧪 I test & document APIs with **Postman**
+- 🌱 Going deeper on **SQL/NoSQL, API design & cloud deployment**
+- 🧪 Testing & documenting APIs with **Postman**
 - ⚙️ Hardware-to-software roots in **Embedded Systems & IoT**
+- 📫 Reach me at **karthisagudeva@gmail.com**
 
-</td>
-<td width="45%" valign="top" align="center">
+---
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="coding gif"/>
-
-</td>
-</tr>
-</table>
-
+<div align="center">
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,react,nodejs,fastapi,express,mongodb,postgres,mysql,docker,aws,gcp,git,postman&perline=9" alt="tech stack"/>
 </div>
 
+<div align="center">
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Frontend & Backend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Cloud & Tools**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
 
 ## 📌 Featured Projects
 
-<div align="center">
-
-| Project | What it does | Stack |
-|:--|:--|:--|
-| 🎮 **Interactive Learning App** | Kids' quiz app with JWT auth, cloud-hosted | `MERN` |
-| 🔐 **One-Time Secret Sharing** | AES-encrypted secrets with auto-expiry | `FastAPI` `PostgreSQL` `Docker` |
-| 💧 **IoT Water Monitoring** | Real-time tank levels + cloud alerts | `ESP32` `AWS IoT` `MQTT` |
-| 🍱 **Smart Food & Door Automation** | Real-time embedded automation | `STM32` `Embedded C` |
-
 </div>
 
+| Project | Description | Stack |
+|:--|:--|:--|
+| 🎮 **Interactive Learning App** | Kids' quiz app with JWT auth, deployed to the cloud | `MERN` |
+| 🔐 **One-Time Secret Sharing** | AES-encrypted secrets that auto-expire after use | `FastAPI` · `PostgreSQL` · `Docker` |
+| 💧 **IoT Water Monitoring** | Real-time tank levels with cloud-based alerts | `ESP32` · `AWS IoT` · `MQTT` |
+| 🍱 **Smart Food & Door Automation** | Real-time embedded automation system | `STM32` · `Embedded C` |
+
+---
+
+<div align="center">
 
 ## 📊 GitHub Stats
 
-<!-- Themed in Spidey red+blue via custom colors -->
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Karthikeyands&show_icons=true&hide_border=true&bg_color=0a1a3f&title_color=e62429&icon_color=1a8fff&text_color=ffffff&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikeyands&layout=compact&hide_border=true&bg_color=0a1a3f&title_color=e62429&text_color=ffffff"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Karthikeyands&show_icons=true&hide_border=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikeyands&layout=compact&hide_border=true"/>
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthikeyands&hide_border=true&background=0a1a3f&stroke=1a8fff&ring=e62429&fire=e62429&currStreakLabel=e62429&sideLabels=ffffff&dates=9fb3c8&currStreakNum=ffffff&sideNums=ffffff" alt="streak"/>
-</div>
-
-<!-- MOVING ACTIVITY GRAPH (red line + blue points on dark) -->
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Karthikeyands&hide_border=true&bg_color=0a1a3f&color=ffffff&line=e62429&point=1a8fff&area=true&area_color=1a8fff" alt="activity graph"/>
-</div>
+---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Karthikeyands&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" alt="trophies"/>
-</div>
 
-<!-- SNAKE CONTRIBUTION ANIMATION -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Karthikeyands/Karthikeyands/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</div>
+⭐️ Thanks for visiting my profile!
 
-<!-- ===== ANIMATED WAVE FOOTER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=120&section=footer&text=Thwip!%20Thanks%20for%20swinging%20by&fontSize=20&fontColor=ffffff&animation=twinkling" />
+</div>
